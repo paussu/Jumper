@@ -1,5 +1,7 @@
 # Jumper
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6d502dc06b2e4d6b9bcb7f56ffb163b4)](https://app.codacy.com/gh/paussu/Jumper?utm_source=github.com&utm_medium=referral&utm_content=paussu/Jumper&utm_campaign=Badge_Grade)
+
 > A fast little endless runner built with **Rust** and **raylib**.
 
 Jumper is an arcade-style score chaser with double jumps, collectible coins, escalating speed, and fully procedural audio. It is small, responsive, and easy to run locally.
